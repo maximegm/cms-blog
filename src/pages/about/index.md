@@ -1,19 +1,21 @@
 ---
-templateKey: 'about-page'
+templateKey: "about-page"
 path: /about
-title: About our values
+title: About Maxime
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Some Background info
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Originally from Paris but after moving across Europe before crossing the Atlantic, Maxime found himself in Boston for College and what eventually became a decade. The Endurance training came from working as a bike courier while studying and discovering a love for endurance and resilience.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Camaraderie in Indivual Sports
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+There are many charicaturesd of the types of people you meet at any of these endurance and long-distance events. The harder and bigger the events, the moreincredible the people. I came for the racing and challenge but am always surprised by how helpful and supportive everyone is.
+
+### Why the CA Central Coast?
+
+Truth be told I love Chamonix and the Alps more than any other place I've visited or that is still on my list but after going through lockdown in Paris in 2020 I wanted to be close to family AND have a rich and diverse playground to explore in my backyard.
+
+### Why Ultras?
+
+After you've run the first marathon and know that you still have at least another one to run, your brain starts doing some fascinating things. Just make sure you don't get overly ambitious and that you're ready for the night or a snowstorm.
