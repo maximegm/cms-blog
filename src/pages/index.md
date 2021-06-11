@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: On the Run
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: On The Run
+subheading: One Foot in front of the Other, One Day at a Time
 mainpitch:
-  title: Why Kaldi
+  title: Why On The Run?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Sometimes a challenge is what you need, for me it was the push I needed to really understand what the mind and body's limits are
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  A marathon sounds hard enough, now picture doing it all in the Alps with several 1000ft of vertical climbing and under the bright Alpine sun
 intro:
   blurbs:
     - image: /img/coffee.png
